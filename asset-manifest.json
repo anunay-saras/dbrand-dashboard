@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dbrand-dashboard/static/css/main.a5b20dcd.css",
-    "main.js": "/dbrand-dashboard/static/js/main.b77dffda.js",
+    "main.css": "/dbrand-dashboard/static/css/main.097d6aff.css",
+    "main.js": "/dbrand-dashboard/static/js/main.fcded080.js",
     "static/js/453.2915d165.chunk.js": "/dbrand-dashboard/static/js/453.2915d165.chunk.js",
     "index.html": "/dbrand-dashboard/index.html",
-    "main.a5b20dcd.css.map": "/dbrand-dashboard/static/css/main.a5b20dcd.css.map",
-    "main.b77dffda.js.map": "/dbrand-dashboard/static/js/main.b77dffda.js.map",
+    "main.097d6aff.css.map": "/dbrand-dashboard/static/css/main.097d6aff.css.map",
+    "main.fcded080.js.map": "/dbrand-dashboard/static/js/main.fcded080.js.map",
     "453.2915d165.chunk.js.map": "/dbrand-dashboard/static/js/453.2915d165.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5b20dcd.css",
-    "static/js/main.b77dffda.js"
+    "static/css/main.097d6aff.css",
+    "static/js/main.fcded080.js"
   ]
 }
